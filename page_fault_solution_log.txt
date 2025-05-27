@@ -1,0 +1,41 @@
+[2025-05-27 09:14:08] Minor Faults: 122 | Major Faults: 1 | Stable Count: 0
+    VmSize:	    6368 kB
+    VmRSS:	    3200 kB
+    VmSwap:	       0 kB
+
+[2025-05-27 09:14:10] Minor Faults: 130 | Major Faults: 1 | Stable Count: 0
+    VmSize:	    6368 kB
+    VmRSS:	    3584 kB
+    VmSwap:	       0 kB
+
+[2025-05-27 09:14:12] Minor Faults: 131 | Major Faults: 1 | Stable Count: 0
+    VmSize:	    6368 kB
+    VmRSS:	    3584 kB
+    VmSwap:	       0 kB
+
+[2025-05-27 09:14:14] Minor Faults: 131 | Major Faults: 1 | Stable Count: 1
+    VmSize:	    6368 kB
+    VmRSS:	    3584 kB
+    VmSwap:	       0 kB
+
+[2025-05-27 09:14:16] Minor Faults: 131 | Major Faults: 1 | Stable Count: 2
+    VmSize:	    6368 kB
+    VmRSS:	    3584 kB
+    VmSwap:	       0 kB
+
+[2025-05-27 09:14:18] Minor Faults: 131 | Major Faults: 1 | Stable Count: 3
+    VmSize:	    6368 kB
+    VmRSS:	    3584 kB
+    VmSwap:	       0 kB
+
+[2025-05-27 09:14:20] Minor Faults: 131 | Major Faults: 1 | Stable Count: 4
+    VmSize:	    6368 kB
+    VmRSS:	    3584 kB
+    VmSwap:	       0 kB
+
+[2025-05-27 09:14:22] Minor Faults: 131 | Major Faults: 1 | Stable Count: 5
+    VmSize:	    6368 kB
+    VmRSS:	    3584 kB
+    VmSwap:	       0 kB
+
+Monitoring stopped due to stable page faults or signal.
